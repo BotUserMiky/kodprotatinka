@@ -1,0 +1,1 @@
+execute as @a if score @s MaxHealth matches 0 run gamemode spectator @s

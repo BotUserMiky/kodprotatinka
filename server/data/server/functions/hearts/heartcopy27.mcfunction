@@ -1,0 +1,1 @@
+execute as @a if score @s MaxHealth matches 54 run attribute @s generic.max_health base set 54
